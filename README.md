@@ -8,7 +8,7 @@ _Me presento ante Ud._
 ---
 * 20 Años 
 ---  
-* Colombia 🇨🇴
+* Colombia
 ---
 * Universidad Mariana 🏫
 ---
