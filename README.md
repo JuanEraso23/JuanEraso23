@@ -2,7 +2,7 @@
 
 _Me presento ante Ud._
 
-![Uploading MeetMe.jpg…]()
+![Uploading MeetMe.jpg…](https://github.com/JuanEraso23/JuanEraso23.git)
 
 * Juan Eraso
 ---
