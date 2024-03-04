@@ -2,7 +2,7 @@
 
 _Me presento ante Ud._
 
-![MeetMe](https://github.com/JuanEraso23/JuanEraso23/assets/144852394/b0b1ebf4-159f-48a3-bfc2-984f77c4770c)
+![MeetMeV2](https://github.com/JuanEraso23/JuanEraso23/assets/144852394/cdb2c514-0877-47da-b507-cb0992a00f62)
 
 * Juan Eraso
 ---
