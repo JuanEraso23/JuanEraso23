@@ -5,7 +5,6 @@ _Soy..._
 
 
 ## Datos Personales
----
 * Juan Manuel Eraso Grijalba
 * Marzo 2003 (Piscis)
 * Colombia, Nariño
