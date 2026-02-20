@@ -4,10 +4,9 @@ _Me presento ante Ud._
 
 
 
+---
 * Juan Manuel Eraso Grijalba
----
 * Marzo 2003 (Piscis)
----
 * Colombia, Nariño
 ---  
 * **Institución Educativa Municipal Libertad** 🏫
