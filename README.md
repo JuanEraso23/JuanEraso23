@@ -1,6 +1,6 @@
-**BIENVENDIO, ESTIMADO USUARIO** 👋
+**BIENVENIDO** 👋
 
-_Me presento ante Ud._
+_Soy..._
 
 
 
