@@ -1,26 +1,23 @@
-###BIENVENDIO, ESTIMADO USUARIO 👋
+**BIENVENDIO, ESTIMADO USUARIO** 👋
 
 _Me presento ante Ud._
 
-![MeetMeV2](https://github.com/JuanEraso23/JuanEraso23/assets/144852394/91c01753-bea7-4029-9362-b411d41f4dc7)
 
-* Juan Eraso
+
+* Juan Manuel Eraso Grijalba
 ---
-* 20 Años 
+* Marzo 2003 (Piscis)
+---
+* Colombia, Nariño
 ---  
-* Colombia
+* **Institución Educativa Municipal Libertad** 🏫
 ---
-* Universidad Mariana 🏫
----
+* **Universidad Mariana** 🏫
 * Ing. Sistemas 🖥️
 --- 
-* Peliculas y Series 📺
+* **Cinar Sistemas: Centro de Formación Técnica** 📺
+* Tec. Soporte de Sistemas e Información 
 ---
-* Anime
----
-* Videojuegos 🎮
----
-* Dibujo tradicional y digital 🖌🎨
----
-* GYM 🏋
+* **S.E.N.A** 🏫
+* Diseño de Imagen Corporativa 🎨
 ---
