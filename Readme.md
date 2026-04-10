@@ -9,14 +9,14 @@ _I'm..._
 * Marzo 2003 (Piscis)
 * Colombia, Nariño
 ---  
-* **Institución Educativa Municipal Libertad** 🏫
+### **Institución Educativa Municipal Libertad** 🏫
 ---
-* **Universidad Mariana** 🏫
+### **Universidad Mariana** 🏫
 * System Engineering 🖥️
 --- 
-* **Cinar Sistemas: Centro de Formación Técnica** 📺
+### **Cinar Sistemas: Centro de Formación Técnica** 📺
 * Technical System Information Support
 ---
-* **S.E.N.A** 🏫
+### **S.E.N.A** 🏫
 * Corporative Image Design 🎨
 ---
